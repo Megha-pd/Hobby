@@ -11,9 +11,18 @@ My LinkedIn Banner
 
 Visiting Card for a client launching a new chess shop specifically designed for kids.
 
+Design 1
+
 ![image](https://github.com/user-attachments/assets/f1d8170f-3ad1-4e44-b6b1-05961955c679)
 
 ![image](https://github.com/user-attachments/assets/6ce5ace4-8284-4913-9028-80a1f9518cf0)
+
+Design 2
+
+![image](https://github.com/user-attachments/assets/6c456258-83b4-4bca-b8d3-dd460b0beb4d)
+
+![image](https://github.com/user-attachments/assets/c5b5bbe2-8d46-4e9b-b508-f1be95a84192)
+
 
 
 
